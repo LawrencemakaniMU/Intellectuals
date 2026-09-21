@@ -44,7 +44,7 @@ public class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Choose a Shape to calculate the Area of the shape");
+        System.out.println("Choose a Number linked to a Shape to calculate the Area of the shape");
         System.out.println("1.Circle");
         System.out.println("2.Square");
         System.out.println("3.Rectangle");
